@@ -12,6 +12,6 @@
 New sprites look terrible.                    
 '''
     hideBrowser: false,
-    hidden: false,
+    hidden: true,
     dependencies: []
 }
