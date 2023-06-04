@@ -1,0 +1,17 @@
+{
+    name: "Sprite revert",
+    repo: "Chaoticans-mindustry-modding-team/sprite-revert",
+    minGameVersion: 143,
+    version: "135",
+    
+    displayName: "Sprite Revert",
+    author: "The chaoticans",
+    subtitle:"Reverts the new mindustry resprites",
+    description:
+'''
+New sprites look terrible.                    
+'''
+    hideBrowser: false,
+    hidden: false,
+    dependencies: []
+}
